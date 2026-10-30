@@ -1,0 +1,13 @@
+{
+  "id": ".",
+  "name": "Borrowed — Own less. Access more.",
+  "short_name": "Borrowed",
+  "description": "Borrow useful things from people nearby on your campus.",
+  "start_url": "./index.html#home",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f7f6f1",
+  "theme_color": "#f7f6f1",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
